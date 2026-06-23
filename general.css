@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		col{
+			color: red
+		}
+	</style>
+</head>
+<body>
+	<h1> css example</h1>
+
+	<p>This is paragraph 1</p>
+	<p>This is paragraph 2</p>
+	<p class="col">This is paragraph 3</p>
+	
+</body>
+</html>
